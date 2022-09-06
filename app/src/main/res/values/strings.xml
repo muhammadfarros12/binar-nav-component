@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">nav component</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_fragment">Settings Fragment</string>
+    <string name="testing">testing</string>
+    <string name="name">Name</string>
+    <string name="ini_halaman_ke_2">Ini Halaman ke-2</string>
+    <string name="pindah_halaman_berikutnya">Pindah Halaman Berikutnya</string>
+    <string name="selamat_anda_telah_menyelesaikan_percobaan_menggunakan_deep_link">Selamat Anda telah menyelesaikan Percobaan menggunakan Deep Link</string>
+    <string name="menuju_layout_2">Menuju layout 2</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="ini_halaman_ke_3">Ini Halaman ke-3</string>
+</resources>
